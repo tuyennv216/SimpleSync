@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleSync": {
+      "commandName": "Project",
+      "commandLineArgs": "run folder=Demo savepath=Backup"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleSync", "SimpleSync\SimpleSync.csproj", "{22AEA821-C5DB-4A47-BA6F-ABAA2696F3B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSimpleSync", "TestSimpleSync\TestSimpleSync.csproj", "{9443751D-8231-4406-AD81-1180CD51D1A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AEA821-C5DB-4A47-BA6F-ABAA2696F3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AEA821-C5DB-4A47-BA6F-ABAA2696F3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AEA821-C5DB-4A47-BA6F-ABAA2696F3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AEA821-C5DB-4A47-BA6F-ABAA2696F3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9443751D-8231-4406-AD81-1180CD51D1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9443751D-8231-4406-AD81-1180CD51D1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9443751D-8231-4406-AD81-1180CD51D1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9443751D-8231-4406-AD81-1180CD51D1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C700D050-98BA-4767-BBD3-7D8796EE28D8}
+	EndGlobalSection
+EndGlobal
